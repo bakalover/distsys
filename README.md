@@ -1,4 +1,4 @@
-### My reading list of papers and just influental works about distributed systems
+### My reading list of papers and just influential works about distributed systems
 - General:
   + [Consistency models](https://jepsen.io/consistency)
 - Consensus:
