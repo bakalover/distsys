@@ -20,3 +20,4 @@ Markers:
 - Systems:
   - [Dynamo](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf&ved=2ahUKEwiwr-XG6fOFAxV4FBAIHa0eARQQFnoECBIQAQ&usg=AOvVaw3uFqtBzdQG0v7-e3VCtZS1)
   - [Cassandra](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf&ved=2ahUKEwjr9a216fOFAxXGIhAIHdo-Dw4QFnoECBYQAQ&usg=AOvVaw2Prdo4paQ0YSQzSKepoHXp)
+  - [Kafka](https://www.confluent.io/blog/)
