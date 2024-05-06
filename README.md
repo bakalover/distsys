@@ -22,3 +22,4 @@ Markers:
   - [Cassandra](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf&ved=2ahUKEwjr9a216fOFAxXGIhAIHdo-Dw4QFnoECBYQAQ&usg=AOvVaw2Prdo4paQ0YSQzSKepoHXp)
   - [Kafka](https://www.confluent.io/blog/)
   - [ZooKeeper](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://zookeeper.apache.org/doc/r3.2.2/zookeeperOver.pdf&ved=2ahUKEwjLo6mI7_OFAxUQCBAIHS7rBfEQFnoECBUQAQ&usg=AOvVaw0_zy-GGvmu05mnguXKBQDd)
+  - [Percolator](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/36726.pdf)
