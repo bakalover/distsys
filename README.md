@@ -18,6 +18,7 @@ Markers:
 - System Design:
   + [Seven Sketches in Compositionality](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://arxiv.org/pdf/1803.05316&ved=2ahUKEwjr69vUnOyFAxXmGxAIHSIeBTIQFnoECEoQAQ&usg=AOvVaw0BoLhQgNDZ3qRAaqu-XZhi) (M)
   + [Clean Architecture](https://github.com/GunterMueller/Books-3/blob/master/Clean%20Architecture%20A%20Craftsman%20Guide%20to%20Software%20Structure%20and%20Design.pdf)
+  + [Data Intensive Applications](https://github.com/lafengnan/ebooks-1/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
 - Systems:
   - [Dynamo](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf&ved=2ahUKEwiwr-XG6fOFAxV4FBAIHa0eARQQFnoECBIQAQ&usg=AOvVaw3uFqtBzdQG0v7-e3VCtZS1)
   - [Cassandra](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf&ved=2ahUKEwjr9a216fOFAxXGIhAIHdo-Dw4QFnoECBYQAQ&usg=AOvVaw2Prdo4paQ0YSQzSKepoHXp)
