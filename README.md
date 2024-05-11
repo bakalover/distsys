@@ -6,6 +6,7 @@ Markers:
 - General:
   + [Consistency models](https://jepsen.io/consistency)
   + [Graph Theory](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://logic.pdmi.ras.ru/~dvk/graphs_dk.pdf&ved=2ahUKEwi7n5KA6eyFAxX7ExAIHc7jCFwQFnoECBMQAQ&usg=AOvVaw0PyumsBpD_VSwBqx2XkjdN) (M)
+  + [Clean Code](https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf)
 - Consensus:
   + [The Part-Time Parliament](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf&ved=2ahUKEwjj05aXuOqFAxXlIxAIHaKBCjYQFnoECBIQAQ&usg=AOvVaw1AHQDriKZ-fF2C7BTNr6qm)
   + [Raft](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://raft.github.io/raft.pdf&ved=2ahUKEwi_9NeF2vmFAxWKgSoKHYjOAcMQFnoECAYQAQ&usg=AOvVaw3DlZnK2c75fpFT0lAXbwQn)
