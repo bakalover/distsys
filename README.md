@@ -28,3 +28,4 @@ Markers:
   - [ZooKeeper](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://zookeeper.apache.org/doc/r3.2.2/zookeeperOver.pdf&ved=2ahUKEwjLo6mI7_OFAxUQCBAIHS7rBfEQFnoECBUQAQ&usg=AOvVaw0_zy-GGvmu05mnguXKBQDd)
   - [Percolator](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/36726.pdf)
   - [Spanner](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://research.google.com/archive/spanner-osdi2012.pdf&ved=2ahUKEwiRisa66YCGAxWGPRAIHcy5CdUQFnoECBIQAQ&usg=AOvVaw0jTMltcXSUju43NRB29vPi)
+  - [BigTable](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf)
