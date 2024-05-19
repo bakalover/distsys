@@ -10,6 +10,8 @@ Markers:
   + [The Mythical Man Month](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf&ved=2ahUKEwiukcWnlpeGAxWOLhAIHceGA38QFnoECBUQAQ&usg=AOvVaw0MH3PGhs3Hbm4u3KkiSl5i)
 - Consensus:
   + [The Part-Time Parliament](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf&ved=2ahUKEwjj05aXuOqFAxXlIxAIHaKBCjYQFnoECBIQAQ&usg=AOvVaw1AHQDriKZ-fF2C7BTNr6qm)
+  + [Paxos Made Simple](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lamport.azurewebsites.net/pubs/paxos-simple.pdf&ved=2ahUKEwjMqcbhu5mGAxWXJRAIHYMUDjYQFnoECAYQAQ&usg=AOvVaw2LqxhZNPEfgaMeyvZEm9xs)
+  + [Paxos Made Live](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf&ved=2ahUKEwj69Kj1u5mGAxW2BxAIHYC3AIUQFnoECBUQAQ&usg=AOvVaw0uqNhH2mEEBI2bcTqLYfNy)
   + [Raft](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://raft.github.io/raft.pdf&ved=2ahUKEwi_9NeF2vmFAxWKgSoKHYjOAcMQFnoECAYQAQ&usg=AOvVaw3DlZnK2c75fpFT0lAXbwQn)
   - BFT:
     + [Catchain Consensus](https://docs.ton.org/catchain.pdf)
