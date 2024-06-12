@@ -27,7 +27,9 @@ Markers:
 - Systems:
   - [Dynamo](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf&ved=2ahUKEwiwr-XG6fOFAxV4FBAIHa0eARQQFnoECBIQAQ&usg=AOvVaw3uFqtBzdQG0v7-e3VCtZS1)
   - [Cassandra](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf&ved=2ahUKEwjr9a216fOFAxXGIhAIHdo-Dw4QFnoECBYQAQ&usg=AOvVaw2Prdo4paQ0YSQzSKepoHXp)
-  - [Kafka](https://www.confluent.io/blog/)
+  - Kafka
+      - [Confluent blog](https://www.confluent.io/blog/)
+      - [Paper](https://notes.stephenholiday.com/Kafka.pdf)
   - [ZooKeeper](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://zookeeper.apache.org/doc/r3.2.2/zookeeperOver.pdf&ved=2ahUKEwjLo6mI7_OFAxUQCBAIHS7rBfEQFnoECBUQAQ&usg=AOvVaw0_zy-GGvmu05mnguXKBQDd)
   - [Percolator](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/36726.pdf)
   - [Spanner](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://research.google.com/archive/spanner-osdi2012.pdf&ved=2ahUKEwiRisa66YCGAxWGPRAIHcy5CdUQFnoECBIQAQ&usg=AOvVaw0jTMltcXSUju43NRB29vPi)
