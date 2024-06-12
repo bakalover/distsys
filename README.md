@@ -13,9 +13,16 @@ Markers:
   + [Paxos Made Simple](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://lamport.azurewebsites.net/pubs/paxos-simple.pdf&ved=2ahUKEwjMqcbhu5mGAxWXJRAIHYMUDjYQFnoECAYQAQ&usg=AOvVaw2LqxhZNPEfgaMeyvZEm9xs)
   + [Paxos Made Live](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf&ved=2ahUKEwj69Kj1u5mGAxW2BxAIHYC3AIUQFnoECBUQAQ&usg=AOvVaw0uqNhH2mEEBI2bcTqLYfNy)
   + [Raft](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://raft.github.io/raft.pdf&ved=2ahUKEwi_9NeF2vmFAxWKgSoKHYjOAcMQFnoECAYQAQ&usg=AOvVaw3DlZnK2c75fpFT0lAXbwQn)
-  - BFT:
-    + [Catchain Consensus](https://docs.ton.org/catchain.pdf)
-    + [HotStuff BFT](https://arxiv.org/pdf/1803.05069)
+  - BFT & Crypto:
+    - [Bitcoin](https://bitcoin.org/bitcoin.pdf)
+    - TON:
+      - [White paper](https://docs.ton.org/ton.pdf)
+      - [Blockchain](https://docs.ton.org/tblkch.pdf)
+      - [Catchain Consensus](https://docs.ton.org/catchain.pdf)
+    - Ethereum:
+      - [White paper](https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum_Whitepaper_-_Buterin_2014.pdf)
+      - [Yellow paper](https://ethereum.github.io/yellowpaper/paper.pdf)
+    - [HotStuff BFT](https://arxiv.org/pdf/1803.05069)
 - Transactions:
   + [XA spec](https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://pubs.opengroup.org/onlinepubs/009680699/toc.pdf&ved=2ahUKEwi2svOfieyFAxU-EBAIHbFHB08QFnoECBUQAQ&usg=AOvVaw02-6NYEGmMKLM1-aXnjfqs)
   + [Calvin](https://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf)
