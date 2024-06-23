@@ -23,6 +23,7 @@ Markers:
     - Ethereum:
       - [White paper](https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum_Whitepaper_-_Buterin_2014.pdf)
       - [Yellow paper](https://ethereum.github.io/yellowpaper/paper.pdf)
+    - [Crypto-Free Consensus](https://eprint.iacr.org/2024/677.pdf)
     - [HotStuff BFT](https://arxiv.org/pdf/1803.05069)
 - Transactions:
   + [XA spec](https://pubs.opengroup.org/onlinepubs/009680699/toc.pdf)
