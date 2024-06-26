@@ -17,7 +17,7 @@ Tags:
   + 🟥 | 🦽 [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
   + [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
   + [Paxos Made Live](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
-  + 🟧 | 🏎 [Raft](https://raft.github.io/raft.pdf)
+  + 🟧 [Raft](https://raft.github.io/raft.pdf)
   + [Viewstamped Replication](https://pmg.csail.mit.edu/papers/vr.pdf)
   - BFT & Crypto:
     - 🟥 | 🦽 [Bitcoin](https://bitcoin.org/bitcoin.pdf)
