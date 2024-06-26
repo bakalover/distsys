@@ -6,11 +6,11 @@
 [Tiers](https://en.wikipedia.org/wiki/Tier_list): 🟥🟧🟨🟩🟦\
 Tags:
 - 🦽 - deprecated (in terms of history and evolution)
-- 🏎 - technology that leads to the future
+- 🏎 - yeah, that's future
 ***
 - General:
-  +  🟥 [Consistency models](https://jepsen.io/consistency)
-  +  🟥 [Graph Theory](https://logic.pdmi.ras.ru/~dvk/graphs_dk.pdf)
+  + 🟥 [Consistency models](https://jepsen.io/consistency)
+  + 🟥 [Graph Theory](https://logic.pdmi.ras.ru/~dvk/graphs_dk.pdf)
   + [Clean Code](https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf)
   + [The Mythical Man Month](https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf)
 - Consensus:
@@ -21,10 +21,10 @@ Tags:
   + [Viewstamped Replication](https://pmg.csail.mit.edu/papers/vr.pdf)
   - BFT & Crypto:
     - 🟥 | 🦽 [Bitcoin](https://bitcoin.org/bitcoin.pdf)
-    - TON:
-      - 🏎 [White paper](https://docs.ton.org/ton.pdf)
-      - 🏎 [Blockchain](https://docs.ton.org/tblkch.pdf)
-      - 🟨 | 🏎 [Catchain Consensus](https://docs.ton.org/catchain.pdf)
+    - 🏎 TON:
+      - [White paper](https://docs.ton.org/ton.pdf)
+      - [Blockchain](https://docs.ton.org/tblkch.pdf)
+      - 🟧 [Catchain Consensus](https://docs.ton.org/catchain.pdf)
     - Ethereum:
       - [White paper](https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum_Whitepaper_-_Buterin_2014.pdf)
       - [Yellow paper](https://ethereum.github.io/yellowpaper/paper.pdf)
@@ -33,8 +33,10 @@ Tags:
     - 🟧 | 🏎 [HotStuff BFT](https://arxiv.org/pdf/1803.05069)
 - Transactions:
   + 🟨 [XA spec](https://pubs.opengroup.org/onlinepubs/009680699/toc.pdf)
-  + 🟥 | 🏎 [Calvin](https://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf)
   + 🟩 | 🦽 [2PL](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/chapter3.pdf)
+  + Detetministic:
+    - [YDB Txn](https://highload.ru/moscow/2019/abstracts/5324)
+    - 🟥 | 🏎 [Calvin](https://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf)
 - System Design:
   + 🟥 [Seven Sketches in Compositionality](https://arxiv.org/pdf/1803.05316)
   + 🟩 [Clean Architecture](https://github.com/GunterMueller/Books-3/blob/master/Clean%20Architecture%20A%20Craftsman%20Guide%20to%20Software%20Structure%20and%20Design.pdf)
