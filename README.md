@@ -54,4 +54,4 @@ Tags:
   - [BigTable](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf)
   - [Chubby](https://research.google.com/archive/chubby-osdi06.pdf)
   - [Kademlia HashTable](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf)
-  - [YDB-SDK](https://youtu.be/bbdk2UGkWR8?si=63REowfjWR9gqqaP)
+  - 🟩 [YDB-SDK](https://youtu.be/bbdk2UGkWR8?si=63REowfjWR9gqqaP)
