@@ -14,7 +14,7 @@ Tags:
 + [The Mythical Man Month](https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf)
 ***
 ### Consensus
-+ Paxos:
++ Paxos (see paxosmon list below):
   + 🟥 [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
   + [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
   + [Paxos Made Live](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
@@ -76,6 +76,7 @@ Tags:
 ### Related Lists
 + 🟥 [Roman Lipovsky](https://gitlab.com/Lipovsky/awesome-distsys)
 + 🟥 [Heidi Howard](https://github.com/heidihoward/distributed-consensus-reading-list)
++ 🟧 [Paxosmon](https://vadosware.io/post/paxosmon-gotta-concensus-them-all/)
 ***
 ### Conferences
 + [Hydra](https://hydraconf.com/)
