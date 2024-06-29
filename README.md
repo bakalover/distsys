@@ -5,8 +5,6 @@ Collection of papers/lectures/talks etc generally about distributed systems and 
 
 [Tiers](https://en.wikipedia.org/wiki/Tier_list): 🟥🟧🟨🟩🟦\
 Tags:
-- 🦽 - deprecated (in terms of history and evolution)
-- 🏎 - yeah, that's future
 ***
 ### General
 + 🟥 [Consistency models](https://jepsen.io/consistency)
@@ -16,7 +14,7 @@ Tags:
 + [The Mythical Man Month](https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf)
 ***
 ### Consensus
-+ 🦽 Paxos:
++ Paxos:
   + 🟥 [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
   + [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
   + [Paxos Made Live](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
@@ -25,8 +23,8 @@ Tags:
   + [Tuning](https://youtu.be/GxvFdTqs3-I?si=blSsA5Lb-uXF1EYK)
 + [Viewstamped Replication](https://pmg.csail.mit.edu/papers/vr.pdf)
 - BFT & Crypto:
-  - 🟥 | 🦽 [Bitcoin](https://bitcoin.org/bitcoin.pdf)
-  - 🏎 TON:
+  - 🟥 [Bitcoin](https://bitcoin.org/bitcoin.pdf)
+  - TON:
     - [White paper](https://docs.ton.org/ton.pdf)
     - [Blockchain](https://docs.ton.org/tblkch.pdf)
     - 🟧 [Catchain Consensus](https://docs.ton.org/catchain.pdf)
@@ -34,16 +32,16 @@ Tags:
     - [White paper](https://ethereum.org/content/whitepaper/whitepaper-pdf/Ethereum_Whitepaper_-_Buterin_2014.pdf)
     - [Yellow paper](https://ethereum.github.io/yellowpaper/paper.pdf)
   - [Crypto-Free Consensus](https://eprint.iacr.org/2024/677.pdf)
-  - 🟨 | 🦽 [PBFT](https://pmg.csail.mit.edu/papers/osdi99.pdf)
-  - 🟧 | 🏎 [HotStuff BFT](https://arxiv.org/pdf/1803.05069)
+  - 🟨 [PBFT](https://pmg.csail.mit.edu/papers/osdi99.pdf)
+  - 🟧 [HotStuff BFT](https://arxiv.org/pdf/1803.05069)
 + [See other](https://github.com/heidihoward/distributed-consensus-reading-list)
 ***
 ### Transactions
 + 🟨 [XA spec](https://pubs.opengroup.org/onlinepubs/009680699/toc.pdf)
-+ 🟩 | 🦽 [2PL](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/chapter3.pdf)
++ 🟩 [2PL](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/chapter3.pdf)
 + Detetministic:
   - [YDB Txn](https://youtu.be/8AR1u5OZIm8?si=PFz6sznlm2lLj_xc)
-  - 🟥 | 🏎 [Calvin](https://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf)
+  - 🟥 [Calvin](https://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf)
 + [Transactional Memory](https://youtu.be/EGlcl1rGj1E?si=gqhJJekdXqux0rwy)
 + [The hitchhiker's guide to distributed transactions](https://youtu.be/sD5L5Utlq5g?si=GHlKolJ-ve8LH5rk)
 ***
@@ -68,7 +66,7 @@ Tags:
     - 🟨 [Confluent blog](https://www.confluent.io/blog/)
     - 🟥 [Paper](https://notes.stephenholiday.com/Kafka.pdf)
     - [Book](https://book.huihoo.com/pdf/confluent-kafka-definitive-guide-complete.pdf)
-- 🟨 | 🦽 [ZooKeeper](https://zookeeper.apache.org/doc/r3.2.2/zookeeperOver.pdf)
+- 🟨 [ZooKeeper](https://zookeeper.apache.org/doc/r3.2.2/zookeeperOver.pdf)
 - [Percolator](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/36726.pdf)
 - 🟧 [Spanner](https://research.google.com/archive/spanner-osdi2012.pdf)
 - [BigTable](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf)
