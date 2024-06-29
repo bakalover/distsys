@@ -36,6 +36,7 @@ Tags:
   - [Crypto-Free Consensus](https://eprint.iacr.org/2024/677.pdf)
   - 🟨 | 🦽 [PBFT](https://pmg.csail.mit.edu/papers/osdi99.pdf)
   - 🟧 | 🏎 [HotStuff BFT](https://arxiv.org/pdf/1803.05069)
++ [See other](https://github.com/heidihoward/distributed-consensus-reading-list)
 ***
 ### Transactions
 + 🟨 [XA spec](https://pubs.opengroup.org/onlinepubs/009680699/toc.pdf)
