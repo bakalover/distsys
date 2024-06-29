@@ -76,6 +76,7 @@ Tags:
 ### Related Lists
 + 🟥 [Roman Lipovsky](https://gitlab.com/Lipovsky/awesome-distsys)
 + 🟥 [Heidi Howard](https://github.com/heidihoward/distributed-consensus-reading-list)
+***
 ### Conferences
 + [Hydra](https://hydraconf.com/)
 + [Highload++](https://highload.ru/)
