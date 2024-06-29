@@ -15,9 +15,10 @@ Tags:
 + [The Mythical Man Month](https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf)
 ***
 ### Consensus
-+ 🟥 | 🦽 [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
-+ [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
-+ [Paxos Made Live](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
++ 🦽 Paxos:
+  + 🟥 [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
+  + [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
+  + [Paxos Made Live](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
 + Raft:
   + 🟧 [Paper](https://raft.github.io/raft.pdf)
   + [Tuning](https://youtu.be/GxvFdTqs3-I?si=blSsA5Lb-uXF1EYK)
