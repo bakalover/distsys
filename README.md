@@ -40,7 +40,7 @@ Tags:
 + 🟨 [XA spec](https://pubs.opengroup.org/onlinepubs/009680699/toc.pdf)
 + 🟩 | 🦽 [2PL](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/chapter3.pdf)
 + Detetministic:
-  - [YDB Txn](https://highload.ru/moscow/2019/abstracts/5324)
+  - [YDB Txn](https://youtu.be/8AR1u5OZIm8?si=PFz6sznlm2lLj_xc)
   - 🟥 | 🏎 [Calvin](https://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf)
 ***
 ### System Design
