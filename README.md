@@ -1,8 +1,9 @@
 ## Knowledge Archive
 ***
-⚠️ **WARNING** ⚠️ 
-*Subjective Opinion*
+Collection of papers/lectures/talks etc generally about distributed systems and adjacent themes.
 ***
+⚠️ **SUBJECTIVE OPINION** ⚠️ 
+
 [Tiers](https://en.wikipedia.org/wiki/Tier_list): 🟥🟧🟨🟩🟦\
 Tags:
 - 🦽 - deprecated (in terms of history and evolution)
@@ -17,7 +18,9 @@ Tags:
   + 🟥 | 🦽 [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
   + [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
   + [Paxos Made Live](https://www.cs.utexas.edu/users/lorenzo/corsi/cs380d/papers/paper2-1.pdf)
-  + 🟧 [Raft](https://raft.github.io/raft.pdf)
+  + Raft:
+    + 🟧 [Paper](https://raft.github.io/raft.pdf)
+    + [Tuning](https://youtu.be/GxvFdTqs3-I?si=blSsA5Lb-uXF1EYK)
   + [Viewstamped Replication](https://pmg.csail.mit.edu/papers/vr.pdf)
   - BFT & Crypto:
     - 🟥 | 🦽 [Bitcoin](https://bitcoin.org/bitcoin.pdf)
@@ -55,3 +58,7 @@ Tags:
   - [Chubby](https://research.google.com/archive/chubby-osdi06.pdf)
   - [Kademlia HashTable](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf)
   - 🟩 [YDB-SDK](https://youtu.be/bbdk2UGkWR8?si=63REowfjWR9gqqaP)
+***
+Conferences:
++ [Hydra](https://hydraconf.com/)
++ [Highload++](https://highload.ru/)
