@@ -34,7 +34,6 @@ Tags:
   - [Crypto-Free Consensus](https://eprint.iacr.org/2024/677.pdf)
   - 🟨 [PBFT](https://pmg.csail.mit.edu/papers/osdi99.pdf)
   - 🟧 [HotStuff BFT](https://arxiv.org/pdf/1803.05069)
-+ [See other](https://github.com/heidihoward/distributed-consensus-reading-list)
 ***
 ### Transactions
 + 🟨 [XA spec](https://pubs.opengroup.org/onlinepubs/009680699/toc.pdf)
@@ -42,17 +41,17 @@ Tags:
 + Detetministic:
   - [YDB Txn](https://youtu.be/8AR1u5OZIm8?si=PFz6sznlm2lLj_xc)
   - 🟥 [Calvin](https://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf)
-+ [Transactional Memory](https://youtu.be/EGlcl1rGj1E?si=gqhJJekdXqux0rwy)
++ 🟧 [Transactional Memory](https://youtu.be/EGlcl1rGj1E?si=gqhJJekdXqux0rwy)
 + [The hitchhiker's guide to distributed transactions](https://youtu.be/sD5L5Utlq5g?si=GHlKolJ-ve8LH5rk)
 ***
 ### CRDT
 + [CRDTs: The hard parts](https://youtu.be/PMVBuMK_pJY?si=SJGG6rrkz_rRFLVV)
 ***
 ### Testing & Verification
-+ [Testing](https://asatarin.github.io/testing-distributed-systems/)
++ 🟥 [Testing](https://asatarin.github.io/testing-distributed-systems/)
 + [TLA+](https://lamport.azurewebsites.net/tla/tla.html)
 + [Designing distributed systems with TLA+](https://youtu.be/2PIgZ6hd-6I?si=xXzjjl1-VrJvfU06)
-+ [Determinism](https://youtu.be/4fFDFbi3toc?si=VT3fsqLI2XSOPfu6)
++ 🟥 [Determinism](https://youtu.be/4fFDFbi3toc?si=VT3fsqLI2XSOPfu6)
 ***
 ### System Design
 + 🟥 [Seven Sketches in Compositionality](https://arxiv.org/pdf/1803.05316)
@@ -74,6 +73,9 @@ Tags:
 - [Kademlia HashTable](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf)
 - 🟩 [YDB-SDK](https://youtu.be/bbdk2UGkWR8?si=63REowfjWR9gqqaP)
 ***
+### Related Lists
++ 🟥 [Roman Lipovsky](https://gitlab.com/Lipovsky/awesome-distsys)
++ 🟥 [Heidi Howard](https://github.com/heidihoward/distributed-consensus-reading-list)
 ### Conferences
 + [Hydra](https://hydraconf.com/)
 + [Highload++](https://highload.ru/)
