@@ -78,6 +78,9 @@ Tags:
 + 🟥 [Heidi Howard](https://github.com/heidihoward/distributed-consensus-reading-list)
 + 🟧 [Paxosmon](https://vadosware.io/post/paxosmon-gotta-concensus-them-all/)
 ***
+### Queue
++ [ETCD Key-Value](https://etcd.io/)
+***
 ### Conferences
 + [Hydra](https://hydraconf.com/)
 + [Highload++](https://highload.ru/)
