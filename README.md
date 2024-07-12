@@ -81,6 +81,7 @@ Tags:
 ### Queue
 + [ETCD Key-Value](https://etcd.io/)
 + [Hashicorp Consul](https://www.datocms-assets.com/2885/1597077859-consul-life-of-a-packet-service-mesh-v11-digital.pdf)
++ [SWIM](https://www.cs.cornell.edu/projects/Quicksilver/public_pdfs/SWIM.pdf)
 ***
 ### Conferences
 + [Hydra](https://hydraconf.com/)
