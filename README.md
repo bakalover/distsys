@@ -80,10 +80,11 @@ Tags:
 + 🟥 [Heidi Howard](https://github.com/heidihoward/distributed-consensus-reading-list)
 + 🟧 [Paxosmon](https://vadosware.io/post/paxosmon-gotta-concensus-them-all/)
 ***
-### Queue
+### Await Queue
 + [ETCD Key-Value](https://etcd.io/)
 + [Hashicorp Consul](https://www.datocms-assets.com/2885/1597077859-consul-life-of-a-packet-service-mesh-v11-digital.pdf)
 + [SWIM](https://www.cs.cornell.edu/projects/Quicksilver/public_pdfs/SWIM.pdf)
++ [Borg](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf)
 ***
 ### Conferences
 + [Hydra](https://hydraconf.com/)
