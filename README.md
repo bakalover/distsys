@@ -9,7 +9,7 @@ Tags:
 ### General
 + 🟥 [Consistency models](https://jepsen.io/consistency)
 + 🟥 [Graph Theory](https://logic.pdmi.ras.ru/~dvk/graphs_dk.pdf)
-+ [Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
++ 🟥 [Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 + [Clean Code](https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf)
 + [The Mythical Man Month](https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf)
 ***
@@ -23,6 +23,7 @@ Tags:
   + [Tuning](https://youtu.be/GxvFdTqs3-I?si=blSsA5Lb-uXF1EYK)
 + [Viewstamped Replication](https://pmg.csail.mit.edu/papers/vr.pdf)
 - BFT & Crypto:
+  - 🟥 [Byzantine Generals](https://lamport.azurewebsites.net/pubs/the-byz-generals.pdf)
   - 🟥 [Bitcoin](https://bitcoin.org/bitcoin.pdf)
   - TON:
     - [White paper](https://docs.ton.org/ton.pdf)
