@@ -85,6 +85,7 @@ Tags:
 + [Hashicorp Consul](https://www.datocms-assets.com/2885/1597077859-consul-life-of-a-packet-service-mesh-v11-digital.pdf)
 + [SWIM](https://www.cs.cornell.edu/projects/Quicksilver/public_pdfs/SWIM.pdf)
 + [Borg](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf)
++ [Quincy](https://www.sigops.org/s/conferences/sosp/2009/papers/isard-sosp09.pdf)
 ***
 ### Conferences
 + [Hydra](https://hydraconf.com/)
