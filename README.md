@@ -21,6 +21,7 @@ Tags:
 + Raft:
   + 🟧 [Paper](https://raft.github.io/raft.pdf)
   + [Tuning](https://youtu.be/GxvFdTqs3-I?si=blSsA5Lb-uXF1EYK)
++ [Paxos vs Raft](https://youtu.be/0K6kt39wyH0?si=KyWtwr-w3g7vqG69)
 + [Viewstamped Replication](https://pmg.csail.mit.edu/papers/vr.pdf)
 - BFT & Crypto:
   - 🟥 [Byzantine Generals](https://lamport.azurewebsites.net/pubs/the-byz-generals.pdf)
