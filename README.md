@@ -48,9 +48,11 @@ Tags:
   - 🟥 [Calvin](https://cs.yale.edu/homes/thomson/publications/calvin-sigmod12.pdf)
 + 🟧 [Transactional Memory](https://youtu.be/EGlcl1rGj1E?si=gqhJJekdXqux0rwy)
 + [The hitchhiker's guide to distributed transactions](https://youtu.be/sD5L5Utlq5g?si=GHlKolJ-ve8LH5rk)
++ [Hermitage](https://github.com/ept/hermitage)
 ***
 ### 👥 CRDT
 + [CRDTs: The hard parts](https://youtu.be/PMVBuMK_pJY?si=SJGG6rrkz_rRFLVV)
++ [Automerge](https://github.com/automerge/automerge-classic)
 ***
 ### 🔬 Testing & Verification
 + 🟥 [Testing](https://asatarin.github.io/testing-distributed-systems/)
