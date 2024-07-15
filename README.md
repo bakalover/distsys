@@ -82,6 +82,7 @@ Tags:
 - [Kademlia HashTable](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf)
 - 🟩 [YDB-SDK](https://youtu.be/bbdk2UGkWR8?si=63REowfjWR9gqqaP)
 - [ETCD Key-Value](https://etcd.io/)
+- [YTsaurus](https://ytsaurus.tech/docs/en/)
 ***
 ### 📜 Related Lists
 + 🟥 [Roman Lipovsky](https://gitlab.com/Lipovsky/awesome-distsys)
