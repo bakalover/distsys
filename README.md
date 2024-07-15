@@ -10,8 +10,6 @@ Tags:
 + 🟥 [Consistency models](https://jepsen.io/consistency)
 + 🟥 [Graph Theory](https://logic.pdmi.ras.ru/~dvk/graphs_dk.pdf)
 + 🟥 [Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
-+ [Clean Code](https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf)
-+ [The Mythical Man Month](https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf)
 ***
 ### 🤝 Consensus
 + Paxos (see paxosmon list below):
