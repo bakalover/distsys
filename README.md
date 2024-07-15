@@ -6,14 +6,14 @@ Collection of papers/lectures/talks etc generally about distributed systems and 
 [Tiers](https://en.wikipedia.org/wiki/Tier_list): 🟥🟧🟨🟩🟦\
 Tags:
 ***
-### General 🌐
+### 🌐 General
 + 🟥 [Consistency models](https://jepsen.io/consistency)
 + 🟥 [Graph Theory](https://logic.pdmi.ras.ru/~dvk/graphs_dk.pdf)
 + 🟥 [Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 + [Clean Code](https://github.com/jnguyen095/clean-code/blob/master/Clean.Code.A.Handbook.of.Agile.Software.Craftsmanship.pdf)
 + [The Mythical Man Month](https://web.eecs.umich.edu/~weimerw/2018-481/readings/mythical-man-month.pdf)
 ***
-### Consensus 🤝
+### 🤝 Consensus
 + Paxos (see paxosmon list below):
   + 🟥 [The Part-Time Parliament](https://lamport.azurewebsites.net/pubs/lamport-paxos.pdf)
   + [Paxos Made Simple](https://lamport.azurewebsites.net/pubs/paxos-simple.pdf)
@@ -23,7 +23,7 @@ Tags:
   + [Tuning](https://youtu.be/GxvFdTqs3-I?si=blSsA5Lb-uXF1EYK)
 + [Paxos vs Raft](https://youtu.be/0K6kt39wyH0?si=KyWtwr-w3g7vqG69)
 + [Viewstamped Replication](https://pmg.csail.mit.edu/papers/vr.pdf)
-- BFT & Crypto 💸:
+- 💸 BFT & Crypto:
   - 🟥 [Byzantine Generals](https://lamport.azurewebsites.net/pubs/the-byz-generals.pdf)
   - 🟥 [Bitcoin](https://bitcoin.org/bitcoin.pdf)
   - TON:
@@ -37,10 +37,10 @@ Tags:
   - 🟨 [PBFT](https://pmg.csail.mit.edu/papers/osdi99.pdf)
   - 🟧 [HotStuff BFT](https://arxiv.org/pdf/1803.05069)
 ***
-### Gossip/Infectioning 🤫
+### 🤫 Gossip/Infectioning
 + [SWIM](https://www.cs.cornell.edu/projects/Quicksilver/public_pdfs/SWIM.pdf)
 ***
-### Transactions 💯
+### 💯 Transactions
 + 🟨 [XA spec](https://pubs.opengroup.org/onlinepubs/009680699/toc.pdf)
 + 🟩 [2PL](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/05/chapter3.pdf)
 + Detetministic:
@@ -49,25 +49,25 @@ Tags:
 + 🟧 [Transactional Memory](https://youtu.be/EGlcl1rGj1E?si=gqhJJekdXqux0rwy)
 + [The hitchhiker's guide to distributed transactions](https://youtu.be/sD5L5Utlq5g?si=GHlKolJ-ve8LH5rk)
 ***
-### CRDT 👥
+### 👥 CRDT
 + [CRDTs: The hard parts](https://youtu.be/PMVBuMK_pJY?si=SJGG6rrkz_rRFLVV)
 ***
-### Testing & Verification 🔬
+### 🔬 Testing & Verification
 + 🟥 [Testing](https://asatarin.github.io/testing-distributed-systems/)
 + [TLA+](https://lamport.azurewebsites.net/tla/tla.html)
 + [Designing distributed systems with TLA+](https://youtu.be/2PIgZ6hd-6I?si=xXzjjl1-VrJvfU06)
 + 🟥 [Determinism](https://youtu.be/4fFDFbi3toc?si=VT3fsqLI2XSOPfu6)
 ***
-### System Design 🖌️
+### 🖌️ System Design
 + 🟥 [Seven Sketches in Compositionality](https://arxiv.org/pdf/1803.05316)
 + 🟩 [Clean Architecture](https://github.com/GunterMueller/Books-3/blob/master/Clean%20Architecture%20A%20Craftsman%20Guide%20to%20Software%20Structure%20and%20Design.pdf)
 + 🟧 [Data Intensive Applications](https://github.com/lafengnan/ebooks-1/blob/master/Designing%20Data%20Intensive%20Applications.pdf)
 ***
-### Management & Scheduling 🎛️
+### 🎛️ Management & Scheduling
 + [Borg](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf)
 + [Quincy](https://www.sigops.org/s/conferences/sosp/2009/papers/isard-sosp09.pdf)
 ***
-### Misc ⚙️
+### ⚙️ Misc
 - [Dynamo](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
 - [Cassandra](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
 - Kafka:
@@ -83,13 +83,13 @@ Tags:
 - 🟩 [YDB-SDK](https://youtu.be/bbdk2UGkWR8?si=63REowfjWR9gqqaP)
 - [ETCD Key-Value](https://etcd.io/)
 ***
-### Related Lists 📜
+### 📜 Related Lists
 + 🟥 [Roman Lipovsky](https://gitlab.com/Lipovsky/awesome-distsys)
 + 🟥 [Heidi Howard](https://github.com/heidihoward/distributed-consensus-reading-list)
 + 🟧 [Paxosmon](https://vadosware.io/post/paxosmon-gotta-concensus-them-all/)
 ***
-### Await Queue 🕜
+### 🕜 Await Queue
 ***
-### Conferences 🌟
+### 🌟 Conferences
 + [Hydra](https://hydraconf.com/)
 + [Highload++](https://highload.ru/)
