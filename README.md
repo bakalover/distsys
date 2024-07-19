@@ -11,6 +11,7 @@ Tags:
 + 🟥 [Graph Theory](https://logic.pdmi.ras.ru/~dvk/graphs_dk.pdf)
 + 🟥 [Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 + [A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science.pdf)
++ [The Art of Multiprocessor Programming by Maurice Herlihy & Nir Shavit](https://github.com/amilajack/reading/blob/master/Computer_Science/The%20Art%20of%20Multiprocessor%20Programming.pdf)
 ***
 ### 🤝 Consensus
 + Paxos (see paxosmon list below):
