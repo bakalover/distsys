@@ -58,6 +58,7 @@ Tags:
 + [TLA+](https://lamport.azurewebsites.net/tla/tla.html)
 + [Designing distributed systems with TLA+](https://youtu.be/2PIgZ6hd-6I?si=xXzjjl1-VrJvfU06)
 + 🟥 [Determinism](https://youtu.be/4fFDFbi3toc?si=VT3fsqLI2XSOPfu6)
++ [Jepsen](https://jepsen.io/)
 ***
 ### 🖌️ System Design
 + 🟥 [Seven Sketches in Compositionality](https://arxiv.org/pdf/1803.05316)
