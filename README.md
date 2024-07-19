@@ -10,6 +10,7 @@ Tags:
 + 🟥 [Consistency models](https://jepsen.io/consistency)
 + 🟥 [Graph Theory](https://logic.pdmi.ras.ru/~dvk/graphs_dk.pdf)
 + 🟥 [Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
++ [A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science.pdf)
 ***
 ### 🤝 Consensus
 + Paxos (see paxosmon list below):
