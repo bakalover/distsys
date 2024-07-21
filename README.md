@@ -93,6 +93,7 @@ Tags:
 + 🟧 [Paxosmon](https://vadosware.io/post/paxosmon-gotta-concensus-them-all/)
 ***
 ### 🕜 Await Queue
++ [Tendermint](https://tendermint.com/static/docs/tendermint.pdf)
 ***
 ### 🌟 Conferences
 + [Hydra](https://hydraconf.com/)
