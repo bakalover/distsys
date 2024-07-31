@@ -36,7 +36,7 @@ Tags:
   + [Asynchronous Consensus without Trusted Setup or Public-KeyCryptography](https://eprint.iacr.org/2024/677.pdf)
   + 🟨 [Practical Byzantine Fault Tolerance](https://pmg.csail.mit.edu/papers/osdi99.pdf)
   + 🟧 [HotStuff: BFT Consensus in the Lens of Blockchain](https://arxiv.org/pdf/1803.05069)
-  + [Tendermint](https://tendermint.com/static/docs/tendermint.pdf)
+  + [Tendermint: Consensus without Mining](https://tendermint.com/static/docs/tendermint.pdf)
 ***
 ### 🤫 Gossip/Infectioning
 + [SWIM: Scalable Weakly-consistent Infection-style Process Group Membership Protocol](https://www.cs.cornell.edu/projects/Quicksilver/public_pdfs/SWIM.pdf)
