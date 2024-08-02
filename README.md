@@ -94,6 +94,7 @@ Tags:
 + 🟧 [Paxosmon](https://vadosware.io/post/paxosmon-gotta-concensus-them-all/)
 ***
 ### 🕜 Await Queue
++ [FoundationDB](https://www.foundationdb.org/files/fdb-paper.pdf)
 ***
 ### 🌟 Conferences
 + [Hydra](https://hydraconf.com/)
