@@ -1,7 +1,6 @@
 ## Distributed systems
 Collection of papers/lectures/talks etc generally about distributed systems and adjacent themes.
 ***
-⚠️ **SUBJECTIVE OPINION** ⚠️ 
 Tags:
 ***
 ### 🌐 General
@@ -92,7 +91,7 @@ Tags:
 + [Heidi Howard](https://github.com/heidihoward/distributed-consensus-reading-list)
 + [Paxosmon](https://vadosware.io/post/paxosmon-gotta-concensus-them-all/)
 ***
-### Advanced Concurrency
+### 🔱 Advanced Concurrency
 + [Multi-CAS Channel](https://arxiv.org/pdf/2211.04986)
 + State Reductuion Tecniques:
     + [Truly Stateless, Optimal Dynamic Partial Order Reduction](https://plv.mpi-sws.org/genmc/popl2022-trust.pdf)
