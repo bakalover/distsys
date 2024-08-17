@@ -93,6 +93,7 @@ Tags:
 ***
 ### 🔱 Advanced Concurrency
 + [Multi-CAS Channel](https://arxiv.org/pdf/2211.04986)
++ [Nikita Koval — Synchronization primitives can be faster with SegmentQueueSynchronizer](https://youtu.be/2uxsNJ0TdIM?si=6V3TPxjHoXJlRXW6)
 + State Reductuion Tecniques:
     + [Truly Stateless, Optimal Dynamic Partial Order Reduction](https://plv.mpi-sws.org/genmc/popl2022-trust.pdf)
     + [A Practical Approach for Model Checking C/C++11 Code](http://plrg.eecs.uci.edu/publications/toplas16.pdf)
