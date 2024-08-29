@@ -92,7 +92,7 @@ Tags:
 + [Paxosmon](https://vadosware.io/post/paxosmon-gotta-concensus-them-all/)
 ***
 ### 🔱 Advanced Concurrency
-+ [Multi-CAS Channel](https://arxiv.org/pdf/2211.04986)
++ [Scalable Channel](https://arxiv.org/pdf/2211.04986)
 + [Nikita Koval — Synchronization primitives can be faster with SegmentQueueSynchronizer](https://youtu.be/2uxsNJ0TdIM?si=6V3TPxjHoXJlRXW6)
 + State Reduction Techniques:
     + [Truly Stateless, Optimal Dynamic Partial Order Reduction](https://plv.mpi-sws.org/genmc/popl2022-trust.pdf)
