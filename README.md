@@ -94,6 +94,9 @@ Tags:
 ### 🔱 Advanced Concurrency
 + [Scalable Channel](https://arxiv.org/pdf/2211.04986)
 + [Nikita Koval — Synchronization primitives can be faster with SegmentQueueSynchronizer](https://youtu.be/2uxsNJ0TdIM?si=6V3TPxjHoXJlRXW6)
++ M-CAS:
+    + [A Practical Multi-Word Compare-and-Swap Operation](https://www.cl.cam.ac.uk/research/srg/netos/papers/2002-casn.pdf)
+    + [Efficient Multi-word Compare and Swap](https://arxiv.org/pdf/2008.02527)
 + State Reduction Techniques:
     + [Truly Stateless, Optimal Dynamic Partial Order Reduction](https://plv.mpi-sws.org/genmc/popl2022-trust.pdf)
     + [A Practical Approach for Model Checking C/C++11 Code](http://plrg.eecs.uci.edu/publications/toplas16.pdf)
