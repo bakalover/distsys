@@ -106,3 +106,4 @@ Tags:
 ### 🌟 Conferences
 + [Hydra](https://hydraconf.com/)
 + [Highload++](https://highload.ru/)
++ [Systems Distributed '24](https://systemsdistributed.com/)
