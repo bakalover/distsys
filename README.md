@@ -9,6 +9,7 @@ Tags:
 + [Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
 + [A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science.pdf)
 + [The Art of Multiprocessor Programming by Maurice Herlihy & Nir Shavit](https://github.com/amilajack/reading/blob/master/Computer_Science/The%20Art%20of%20Multiprocessor%20Programming.pdf)
++ [Scalability! But at what COST?](https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf)
 ***
 ### 🤝 Consensus
 + Paxos (see paxosmon list below):
