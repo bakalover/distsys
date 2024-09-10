@@ -108,3 +108,4 @@ Tags:
 + [Hydra](https://hydraconf.com/)
 + [Highload++](https://highload.ru/)
 + [Systems Distributed '24](https://systemsdistributed.com/)
++ [The Strange Loop](https://www.thestrangeloop.com/index.html)
