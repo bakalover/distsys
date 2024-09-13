@@ -86,6 +86,7 @@ Tags:
 + [ETCD Key-Value](https://etcd.io/)
 + [YTsaurus](https://ytsaurus.tech/docs/en/)
 + [FoundationDB](https://www.foundationdb.org/files/fdb-paper.pdf)
++ [F1](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41344.pdf)
 ***
 ### 📜 Related Lists
 + [Roman Lipovsky](https://gitlab.com/Lipovsky/awesome-distsys)
