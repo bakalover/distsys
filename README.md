@@ -105,7 +105,11 @@ Tags:
 ### 🕜 Await Queue
 
 ***
-### 🌟 Conferences
+### 📰 Blog
++ [Dmitry Vyukov](https://www.1024cores.net/)
++ [Asymmetric Transfer by Lewiss Baker](https://lewissbaker.github.io/)
+***
+### 🌟 Conference
 + [Hydra](https://hydraconf.com/)
 + [Highload++](https://highload.ru/)
 + [Systems Distributed '24](https://systemsdistributed.com/)
