@@ -35,6 +35,7 @@ Tags:
   + [Practical Byzantine Fault Tolerance](https://pmg.csail.mit.edu/papers/osdi99.pdf)
   + [HotStuff: BFT Consensus in the Lens of Blockchain](https://arxiv.org/pdf/1803.05069)
   + [Tendermint: Consensus without Mining](https://tendermint.com/static/docs/tendermint.pdf)
+  + [Protocol-Aware Recovery](https://www.usenix.org/system/files/conference/fast18/fast18-alagappan.pdf)
 ***
 ### 🤫 Gossip/Infectioning
 + [SWIM: Scalable Weakly-consistent Infection-style Process Group Membership Protocol](https://www.cs.cornell.edu/projects/Quicksilver/public_pdfs/SWIM.pdf)
