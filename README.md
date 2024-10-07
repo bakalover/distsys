@@ -104,6 +104,7 @@ Tags:
     + [Truly Stateless, Optimal Dynamic Partial Order Reduction](https://plv.mpi-sws.org/genmc/popl2022-trust.pdf)
     + [A Practical Approach for Model Checking C/C++11 Code](http://plrg.eecs.uci.edu/publications/toplas16.pdf)
 ### 🕜 Await Queue
++ [Virtual consensus in Delos](https://research.facebook.com/file/534538337798875/Virtual-Consensus-in-Delos.pdf)
 
 ***
 ### 📰 Blog
