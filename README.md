@@ -3,11 +3,13 @@ Collection of papers/lectures/talks etc generally about distributed systems and 
 ***
 Tags:
 ***
+### 🐲 Dragon book
++ [A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science.pdf)
+***
 ### 🌐 General
 + [Consistency models](https://jepsen.io/consistency)
 + [Graph Theory](https://logic.pdmi.ras.ru/~dvk/graphs_dk.pdf)
 + [Time, Clocks, and the Ordering of Events in a Distributed System](https://lamport.azurewebsites.net/pubs/time-clocks.pdf)
-+ [A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science.pdf)
 + [The Art of Multiprocessor Programming by Maurice Herlihy & Nir Shavit](https://github.com/amilajack/reading/blob/master/Computer_Science/The%20Art%20of%20Multiprocessor%20Programming.pdf)
 + [Scalability! But at what COST?](https://www.usenix.org/system/files/conference/hotos15/hotos15-paper-mcsherry.pdf)
 ***
