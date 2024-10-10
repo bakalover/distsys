@@ -82,6 +82,8 @@ Tags:
       + [Kafka: a Distributed Messaging System for Log Processing](https://notes.stephenholiday.com/Kafka.pdf)
       + [Book](https://book.huihoo.com/pdf/confluent-kafka-definitive-guide-complete.pdf)
   + [ZooKeeper: A Distributed Coordination Service for Distributed](https://zookeeper.apache.org/doc/r3.2.2/zookeeperOver.pdf)
++ Apple:
++ [FoundationDB](https://www.foundationdb.org/files/fdb-paper.pdf)
 + Google:
   + [Large-scale Incremental Processing Using Distributed Transactions and Notifications (Percolator)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/36726.pdf)
   + [Spanner: Google’s Globally-Distributed Database](https://research.google.com/archive/spanner-osdi2012.pdf)
@@ -93,7 +95,6 @@ Tags:
   + [Просто о сложном как работает драйвер распределенной базы данных YDB / Алексей Мясников](https://youtu.be/bbdk2UGkWR8?si=63REowfjWR9gqqaP)
 + [Kademlia: A Peer-to-peer Information System Based on the XOR Metric](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf)
 + [ETCD Key-Value](https://etcd.io/)
-+ [FoundationDB](https://www.foundationdb.org/files/fdb-paper.pdf)
 ***
 ### 📜 Related Lists
 + [Roman Lipovsky](https://gitlab.com/Lipovsky/awesome-distsys)
