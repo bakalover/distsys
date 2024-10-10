@@ -3,7 +3,7 @@ Collection of papers/lectures/talks etc generally about distributed systems and 
 ***
 Tags:
 ***
-### 🐲 Dragon book
+### 🐲 Hydra book
 + [A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science.pdf)
 ***
 ### 🌐 General
@@ -72,24 +72,28 @@ Tags:
 + [Large-scale cluster management at Google with Borg](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/43438.pdf)
 + [Quincy: Fair Scheduling for Distributed Computing Clusters](https://www.sigops.org/s/conferences/sosp/2009/papers/isard-sosp09.pdf)
 ***
-### ⚙️ Misc
-+ [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
-+ [Cassandra - A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
-+ Kafka:
-    + [Confluent blog](https://www.confluent.io/blog/)
-    + [Kafka: a Distributed Messaging System for Log Processing](https://notes.stephenholiday.com/Kafka.pdf)
-    + [Book](https://book.huihoo.com/pdf/confluent-kafka-definitive-guide-complete.pdf)
-+ [ZooKeeper: A Distributed Coordination Service for Distributed](https://zookeeper.apache.org/doc/r3.2.2/zookeeperOver.pdf)
-+ [Large-scale Incremental Processing Using Distributed Transactions and Notifications (Percolator)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/36726.pdf)
-+ [Spanner: Google’s Globally-Distributed Database](https://research.google.com/archive/spanner-osdi2012.pdf)
-+ [Bigtable: A Distributed Storage System for Structured Data](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf)
-+ [The Chubby lock service for loosely-coupled distributed systems](https://research.google.com/archive/chubby-osdi06.pdf)
+### ⚙️ Production
++ Amazon:
+  + [Dynamo: Amazon’s Highly Available Key-value Store](https://www.allthingsdistributed.com/files/amazon-dynamo-sosp2007.pdf)
++ Apache:
+  + [Cassandra - A Decentralized Structured Storage System](https://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf)
+  + Kafka:
+      + [Confluent blog](https://www.confluent.io/blog/)
+      + [Kafka: a Distributed Messaging System for Log Processing](https://notes.stephenholiday.com/Kafka.pdf)
+      + [Book](https://book.huihoo.com/pdf/confluent-kafka-definitive-guide-complete.pdf)
+  + [ZooKeeper: A Distributed Coordination Service for Distributed](https://zookeeper.apache.org/doc/r3.2.2/zookeeperOver.pdf)
++ Google:
+  + [Large-scale Incremental Processing Using Distributed Transactions and Notifications (Percolator)](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/36726.pdf)
+  + [Spanner: Google’s Globally-Distributed Database](https://research.google.com/archive/spanner-osdi2012.pdf)
+  + [F1](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41344.pdf)
+  + [Bigtable: A Distributed Storage System for Structured Data](https://storage.googleapis.com/gweb-research2023-media/pubtools/pdf/68a74a85e1662fe02ff3967497f31fda7f32225c.pdf)
+  + [The Chubby lock service for loosely-coupled distributed systems](https://research.google.com/archive/chubby-osdi06.pdf)
++ Yandex:
+  + [YTsaurus](https://ytsaurus.tech/docs/en/)
+  + [Просто о сложном как работает драйвер распределенной базы данных YDB / Алексей Мясников](https://youtu.be/bbdk2UGkWR8?si=63REowfjWR9gqqaP)
 + [Kademlia: A Peer-to-peer Information System Based on the XOR Metric](https://pdos.csail.mit.edu/~petar/papers/maymounkov-kademlia-lncs.pdf)
-+ [Просто о сложном как работает драйвер распределенной базы данных YDB / Алексей Мясников](https://youtu.be/bbdk2UGkWR8?si=63REowfjWR9gqqaP)
 + [ETCD Key-Value](https://etcd.io/)
-+ [YTsaurus](https://ytsaurus.tech/docs/en/)
 + [FoundationDB](https://www.foundationdb.org/files/fdb-paper.pdf)
-+ [F1](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/41344.pdf)
 ***
 ### 📜 Related Lists
 + [Roman Lipovsky](https://gitlab.com/Lipovsky/awesome-distsys)
