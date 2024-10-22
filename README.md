@@ -113,8 +113,6 @@ Tags:
 + State Reduction Techniques:
     + [Truly Stateless, Optimal Dynamic Partial Order Reduction](https://plv.mpi-sws.org/genmc/popl2022-trust.pdf)
     + [A Practical Approach for Model Checking C/C++11 Code](http://plrg.eecs.uci.edu/publications/toplas16.pdf)
-### 🕜 Queue
-
 ***
 ### 📰 Blog
 + [Dmitry Vyukov](https://www.1024cores.net/)
@@ -126,3 +124,5 @@ Tags:
 + [Highload++](https://highload.ru/)
 + [Systems Distributed '24](https://systemsdistributed.com/)
 + [The Strange Loop](https://www.thestrangeloop.com/index.html)
+***
+### 🕜 Queue
