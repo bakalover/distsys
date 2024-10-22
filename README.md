@@ -57,11 +57,18 @@ Tags:
 + [Automerge](https://github.com/automerge/automerge-classic)
 ***
 ### 🔬 Testing & Verification
++ Simulations:
+  + Matrix clock:
+    + [Cambridge Press slides](https://www.cs.uic.edu/~ajayk/Chapter3.pdf)
+    + [On reducing the complexity of matrix clocks](https://arxiv.org/pdf/cs/0309042)
+  + [TigerBeetle VOPR](https://tigerbeetle.com/blog/2023-07-11-we-put-a-distributed-database-in-the-browser)
+  + [Testing Distributed Systems w/ Deterministic Simulation" by Will Wilson](https://youtu.be/4fFDFbi3toc?si=VT3fsqLI2XSOPfu6)
+  + [Jepsen](https://jepsen.io/)
+  + [Nucleus](https://dropbox.tech/infrastructure/-testing-our-new-sync-engine)
++ TLA:
+  + [TLA+](https://lamport.azurewebsites.net/tla/tla.html)
+  + [Designing distributed systems with TLA+](https://youtu.be/2PIgZ6hd-6I?si=xXzjjl1-VrJvfU06)
 + [Testing Distributed Systems](https://asatarin.github.io/testing-distributed-systems/)
-+ [TLA+](https://lamport.azurewebsites.net/tla/tla.html)
-+ [Designing distributed systems with TLA+](https://youtu.be/2PIgZ6hd-6I?si=xXzjjl1-VrJvfU06)
-+ [Testing Distributed Systems w/ Deterministic Simulation" by Will Wilson](https://youtu.be/4fFDFbi3toc?si=VT3fsqLI2XSOPfu6)
-+ [Jepsen](https://jepsen.io/)
 ***
 ### 🖌️ System Design
 + [Seven Sketches in Compositionality](https://arxiv.org/pdf/1803.05316)
