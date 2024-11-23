@@ -119,7 +119,7 @@ Tags:
     + [Efficient Multi-word Compare and Swap](https://arxiv.org/pdf/2008.02527)
 + State Reduction Techniques:
     + [Truly Stateless, Optimal Dynamic Partial Order Reduction](https://plv.mpi-sws.org/genmc/popl2022-trust.pdf)
-    + [A Practical Approach for Model Checking C/C++11 Code](http://plrg.eecs.uci.edu/publications/toplas16.pdf)
+    + [CDSCHECKER: Checking Concurrent Data Structures Written with C/C++ Atomics](http://demsky.eecs.uci.edu/publications/c11modelcheck.pdf)
 ***
 ### 📰 Blog
 + [Dmitry Vyukov](https://www.1024cores.net/)
