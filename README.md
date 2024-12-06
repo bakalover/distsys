@@ -1,5 +1,4 @@
-## Distributed systems
-Collection of papers/lectures/talks etc generally about distributed systems and adjacent themes.
+## Reading
 ***
 Tags:
 ***
